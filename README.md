@@ -1,5 +1,5 @@
  <div style="background-color: #273746; /* Cor de fundo */
-                 padding: 20px; /* Espaçamento interno */
+                 padding: 2000px; /* Espaçamento interno */
                  border-radius: 8px; /* Bordas arredondadas */
                  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */">
         <!-- Seu conteúdo aqui -->
