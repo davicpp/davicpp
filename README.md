@@ -4,7 +4,7 @@
                  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */">
     <p>Olá, mundo! Este é o meu perfil GitHub.</p>
     <p>Aqui você pode ver informações sobre mim e meus projetos.</p>
-    <img src="https://avatars.githubusercontent.com/u/123456789?v=4" alt="Minha foto" style="width: 100px; height: 100px; border-radius: 50%;" />
+    <img src="https://avatars.githubusercontent.com/u/123456789?v=4" alt="Minha foto" style="width: 1000px; height: 1000px; border-radius: 50%;" />
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
