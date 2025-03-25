@@ -1,4 +1,4 @@
- <div style="background-color: #f0f0f0; /* Cor de fundo */
+ <div style="background-color: #273746; /* Cor de fundo */
                  padding: 20px; /* Espaçamento interno */
                  border-radius: 8px; /* Bordas arredondadas */
                  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */">
