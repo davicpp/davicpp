@@ -1,10 +1,11 @@
- <div style="background-color: #273746; /* Cor de fundo */
-                 padding: 2000px; /* Espaçamento interno */
+<div style="background-color: #f0f0f0; /* Cor de fundo */
+                 padding: 20px; /* Espaçamento interno */
                  border-radius: 8px; /* Bordas arredondadas */
                  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */">
-        <!-- Seu conteúdo aqui -->
-    </div>
-
+    <p>Olá, mundo! Este é o meu perfil GitHub.</p>
+    <p>Aqui você pode ver informações sobre mim e meus projetos.</p>
+    <img src="https://avatars.githubusercontent.com/u/123456789?v=4" alt="Minha foto" style="width: 100px; height: 100px; border-radius: 50%;" />
+</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
