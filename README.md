@@ -11,4 +11,4 @@
           
 **Seja bem vindo a este perfil**
 
-Ainda estou trabalhando nesse perfil, está em construção perdoe-me a desordem.
+Ainda estou trabalhando nesse perfil, está em construção, perdoe-me a desordem.
