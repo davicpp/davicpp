@@ -10,3 +10,4 @@
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 **Seja bem vindo a este perfil**
+Ainda estou trabalhando nesse perfil, está em construção perdoe-me a desordem.
